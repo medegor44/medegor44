@@ -1,4 +1,4 @@
-Hi! I'm Egor, senior .NET backend developer at Ozon (the leading russian e-com company) and PhD student at Yaroslavl State University.
+Hi! I'm Egor, senior .NET/Go backend developer at Ozon (the leading russian e-com company) and PhD student at Yaroslavl State University.
 
 My interests are 
 - 🔨 backend development, 
